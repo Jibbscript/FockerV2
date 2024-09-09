@@ -20,3 +20,4 @@ Inspired by:
 
 ## Resources
 [Rootless Containers in RunC](https://github.com/opencontainers/runc#rootless-containers)
+[libcontainer, Container Runtime in RunC contributed by Docker](https://github.com/opencontainers/runc/tree/main/libcontainer)
